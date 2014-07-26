@@ -1,4 +1,4 @@
-tpwfinancial
+TPW Financial
 ============
 
-Brand identity and wen design
+Brand identity and web design
